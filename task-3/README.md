@@ -1,4 +1,4 @@
-# Task 2
+# Task 3
 
 ### Purpose of the task
 The task was to implement a generic function that deletes whitespaces around specified container (e.g. std::string, std::vector, std::list).

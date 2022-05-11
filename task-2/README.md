@@ -1,7 +1,7 @@
 # Task 2
 
 ### Purpose of the task
-The task was to implement a rectangle - circle collision.
+The task was to implement a rectangle - circle collision detection.
 
 ### SFML
 Program uses SFML. The library must be installed to work properly.

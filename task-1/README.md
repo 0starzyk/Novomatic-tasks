@@ -1,9 +1,9 @@
-### Task 1
+# Task 1
 
-# Purpose of the task
+### Purpose of the task
 The task was to implement a function that checks whether the triangles collide.
 
-# Running
+### Running
 The 'triangle' folder (our root directory) contains the program files that we need to run with cmake. You can create a build in the root directory to keep there build files.
 
 ```sh
@@ -15,5 +15,5 @@ make
 ./rectangle
 ```
 
-# Document with test
+### Document with test
 There is also pdf file (triangle-tests.pdf) with some tests done in main.cpp.

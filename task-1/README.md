@@ -12,7 +12,7 @@ mkdir build
 cd build
 cmake ..
 make
-./rectangle
+./triangle
 ```
 
 ### Document with test
